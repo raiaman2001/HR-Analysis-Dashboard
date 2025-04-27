@@ -28,3 +28,5 @@ This Power BI report provides a comprehensive analysis of HR data to support dat
   b.) Load or connect to your HR dataset if needed.
 
   c.) Use slicers and visuals to explore employee-related insights interactively.
+
+![Image](https://github.com/user-attachments/assets/6d2c3519-c52e-43c5-b4ba-c9aa05e20213)
